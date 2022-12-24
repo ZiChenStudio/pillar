@@ -12,6 +12,8 @@
 ## 引用
  - 背景：Bing壁纸
  - Bing壁纸API：[杨尚臻](https://www.yangshangzhen.com/ "Shangzhen Yang")
+
+ - 一言：[一言](https://hitokoto.cn/ "一言")
 ## 开发者
 ZiChenStudio & ZiChen Official Team
 
@@ -20,6 +22,8 @@ ZiChenStudio & ZiChen Official Team
 [ZiChenStudio](https://github.com/ZiChenStudio "ZiChenStudio")
 
 [杨尚臻](https://github.com/shangzhenyang "Shangzhen Yang")
+
+[一言](https://hitokoto.cn/ "一言")
 ### 杨尚臻的帮助
 谢谢杨尚臻提供的Bing壁纸API。
 
