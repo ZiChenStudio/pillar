@@ -1,34 +1,8 @@
-body {
-    background-image: url(https://www.yangshangzhen.com/bing/wallpaper);
-}
-.body {
-    margin: 5%;
-}
+body {background-image: url(https://www.yangshangzhen.com/bing/wallpaper);}
+.body {margin: 5%;}
 /* 超链接的访问效果 */
-.link a:link {
-    /* 常规效果 */
-    color: #000000;
-    text-decoration: none;
-}
-
-.link a:visited {
-    /* 已经访问后效果 */
-    color: #000000;
-    text-decoration: none;
-}
-
-.link a:hover {
-    /* 鼠标移至其上方效果 */
-    color: #27DCE2;
-    text-decoration: none;
-}
-
-.link a:active {
-    /* 鼠标未释放时效果 */
-    color: #27DCE2;
-    text-decoration: underline;
-}
-.foot {
-    position: fixed;
-    top: 70%;
-}
+.link a:link {/* 常规效果 */color: #000000;text-decoration: none;}
+.link a:visited {/* 已经访问后效果 */color: #000000;text-decoration: none;}
+.link a:hover {/* 鼠标移至其上方效果 */color: #27DCE2;text-decoration: none;}
+.link a:active {/* 鼠标未释放时效果 */color: #27DCE2;text-decoration: underline;}
+.foot {position: fixed;top: 70%;}
