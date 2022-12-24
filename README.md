@@ -11,7 +11,7 @@
 这个网站只有一个页面！
 ## 引用
  - 背景：Bing壁纸
- - Bing壁纸API：[杨尚臻](https://www.yangshangzhen.com/)
+ - Bing壁纸API：[杨尚臻](https://www.yangshangzhen.com/ "Shangzhen Yang")
 ## 开发者
 ZiChenStudio & ZiChen Official Team
 
