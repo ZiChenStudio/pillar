@@ -6,7 +6,7 @@
 ## 使用
 嗯，既然你要访问的话，我就把链接给你啦。
 
- - [主页](#)
+ - [主页](https://pillarzcs.netlify.app/)
 
 这个网站只有一个页面！
 ## 引用
@@ -26,7 +26,7 @@ ZiChenStudio & ZiChen Official Team
 感谢杨尚臻。<br>
 :-)
 ## 建议&提问
-访问[Issue](https://github.com/ZiChenStudio/pillar/issues/)
+访问[Issue](https://github.com/ZiChenStudio/pillar/issues/ "Github Issues")
 
 ---
 
