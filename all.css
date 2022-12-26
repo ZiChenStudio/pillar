@@ -1,6 +1,6 @@
 body {background-image: url(https://www.yangshangzhen.com/bing/wallpaper);}
 .body {margin: 5%;}
-* { text-shadow: #be002c 1px 0 0, #be002c 0 1px 0, #27DCE2 -1px 0 0, #27DCE2 0 -1px 0; }
+* { text-shadow: #be002c 0.5px 0 0, #be002c 0 0.5px 0, #27DCE2 -1px 0 0, #27DCE2 0 -1px 0; }
 /* 超链接的访问效果 */
 .link a:link {/* 常规效果 */color: #000000;text-decoration: none;}
 .link a:visited {/* 已经访问后效果 */color: #000000;text-decoration: none;}
